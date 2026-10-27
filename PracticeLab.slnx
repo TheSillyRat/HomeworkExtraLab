@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="PracticeLab/PracticeLab.csproj" />
+  <Project Path="WebApp/webapp.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>

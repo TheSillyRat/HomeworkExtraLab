@@ -1,0 +1,14 @@
+# Visual Studio & C# .NET
+.vs/
+bin/
+obj/
+*.user
+
+# React & Node.js
+node_modules/
+build/
+dist/
+
+# File môi trường và hệ thống
+.env
+.DS_Store
